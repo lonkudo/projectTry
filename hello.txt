@@ -1,1 +1,2 @@
 i'm new to git.
+try git pull
